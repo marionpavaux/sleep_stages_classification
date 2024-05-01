@@ -17,10 +17,14 @@ The design of the pipeline is based on pre-processing, features extraction and s
 ## Environment creation
 
 1. create conda environment with name sleep_classification :
-   `conda create -f environment.yml`
+   ```bash
+   conda create -f environment.yml
+   ```
 
-2. activate environment :
-   `conda activate sleep_classification`
+3. activate environment :
+   ```bash
+   conda activate sleep_classification
+   ```
 
 ## Data
 
